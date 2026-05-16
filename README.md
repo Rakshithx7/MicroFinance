@@ -133,85 +133,31 @@ The project follows MVVM (Model View ViewModel) Architecture.
 ```text
 User → UI Screen → ViewModel → Repository → Room Database
 
-project structure: MicroFinance/
-│
-├── .github/
-├── .gradle/
-├── .idea/
-├── .kotlin/
+MicroFinance/
 │
 ├── app/
-│   ├── build/
-│   ├── schemas/
-│   └── src/
-│       ├── androidTest/
-│       ├── test/
-│       │
-│       └── main/
-│           ├── java/com/example/microfinance/
-│           │
-│           ├── auth/
-│           │   ├── AuthRepository.kt
-│           │   └── AuthViewModel.kt
-│           │
-│           ├── data/
-│           │   │
-│           │   ├── dao/
-│           │   │   ├── GroupSettingsDao.kt
-│           │   │   ├── LoanDao.kt
-│           │   │   ├── MemberDao.kt
-│           │   │   ├── RepaymentDao.kt
-│           │   │   └── SavingsDao.kt
-│           │   │
-│           │   ├── db/
-│           │   │   ├── AppDatabase.kt
-│           │   │   ├── Converters.kt
-│           │   │   ├── DatabaseProvider.kt
-│           │   │   └── Migrations.kt
-│           │   │
-│           │   ├── entity/
-│           │   │   ├── GroupSettingsEntity.kt
-│           │   │   ├── LoanEntity.kt
-│           │   │   ├── LoanWithRepaymentTotal.kt
-│           │   │   ├── MemberEntity.kt
-│           │   │   ├── MemberSavingsTotal.kt
-│           │   │   ├── MemberStatus.kt
-│           │   │   ├── RepaymentEntity.kt
-│           │   │   ├── SavingsEntryEntity.kt
-│           │   │   └── SavingsStatus.kt
-│           │
-│           ├── sync/
-│           │   └── FirestoreSyncRepository.kt
-│           │
-│           ├── ui/
-│           │   │
-│           │   ├── auth/
-│           │   │   ├── LoginScreen.kt
-│           │   │   └── ProfileScreen.kt
-│           │   │
-│           │   ├── components/
-│           │   │   ├── AnalyticsBottomSheet.kt
-│           │   │   └── Components.kt
-│           │   │
-│           │   ├── dashboard/
-│           │   │   ├── DashboardScreen.kt
-│           │   │   └── DashboardViewModel.kt
-│           │   │
-│           │   ├── loan/
-│           │   │   ├── LoanBottomSheets.kt
-│           │   │   ├── LoanScreen.kt
-│           │   │   └── LoanViewModel.kt
-│           │   │
-│           │   ├── member/
-│           │   ├── savings/
-│           │   ├── splash/
-│           │   └── theme/
-│           │
-│           ├── util/
-│           ├── MainActivity.kt
-│           │
-│           ├── res/
-│           └── AndroidManifest.xml
+│   ├── src/main/java/com/example/microfinance/
+│   │
+│   ├── auth/
+│   ├── data/
+│   │   ├── dao/
+│   │   ├── db/
+│   │   └── entity/
+│   │
+│   ├── sync/
+│   ├── ui/
+│   │   ├── auth/
+│   │   ├── components/
+│   │   ├── dashboard/
+│   │   ├── loan/
+│   │   ├── member/
+│   │   ├── savings/
+│   │   ├── splash/
+│   │   └── theme/
+│   │
+│   ├── util/
+│   ├── MainActivity.kt
+│   └── AndroidManifest.xml
 │
 ├── build.gradle.kts
 ├── .gitignore
