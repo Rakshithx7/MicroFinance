@@ -159,9 +159,8 @@ MicroFinance/
 ├── .gitignore
 └── README.md
 
-
 ---
-
+```
 # How to Run the Application
 
 1. Open the project in Android Studio
@@ -187,3 +186,15 @@ After launching:
 6. Create and manage loans
 7. Track repayments and balances
 8. View financial analytics
+
+
+
+
+# Future Improvements
+
+- PDF Report Export
+- Notification Reminders
+- Multi-language Support
+- Advanced Analytics Graphs
+- Admin Dashboard
+- Multi-device Sync
