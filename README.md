@@ -189,20 +189,17 @@ After launching:
 
 ## Screenshots
 
-### Dashboard Screen
-<img src="Screenshots/a1.jpg" width="250"/>
+<p align="center">
+  <img src="Screenshots/a1.jpg" width="250"/>
+  <img src="Screenshots/a2.jpg" width="250"/>
+  <img src="Screenshots/a3.jpg" width="250"/>
+</p>
 
-### Members Screen
-<img src="Screenshots/a2.jpg" width="250"/>
+<p align="center">
+  <img src="Screenshots/a4.jpg" width="250"/>
+  <img src="Screenshots/a5.jpg" width="250"/>
+</p>
 
-### Savings Screen
-<img src="Screenshots/a3.jpg" width="250"/>
-
-### Loans Screen
-<img src="Screenshots/a4.jpg" width="250"/>
-
-### Analytics Screen
-<img src="Screenshots/a5.jpg" width="250"/>
 # Future Improvements
 
 - PDF Report Export
