@@ -187,6 +187,7 @@ After launching:
 7. Track repayments and balances
 8. View financial analytics
 
+<<<<<<< HEAD
 # Screenshots
 
 ## Dashboard Screen
@@ -203,6 +204,10 @@ After launching:
 
 ## Analytics Screen
 <img src="screenshots/a5.jpg" width="300"/>
+=======
+
+
+>>>>>>> bdee65dcf5645a8b97a055ca3e6bdc759b225304
 
 # Future Improvements
 
