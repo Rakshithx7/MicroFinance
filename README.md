@@ -187,27 +187,22 @@ After launching:
 7. Track repayments and balances
 8. View financial analytics
 
-<<<<<<< HEAD
-# Screenshots
+## Screenshots
 
-## Dashboard Screen
-<img src="screenshots/a1.jpg" width="300"/>
+### Dashboard Screen
+![Dashboard](screenshots/a1.jpg)
 
-## Members Screen
-<img src="screenshots/a2.jpg" width="300"/>
+### Members Screen
+![Members](screenshots/a2.jpg)
 
-## Savings Screen
-<img src="screenshots/a3.jpg" width="300"/>
+### Savings Screen
+![Savings](screenshots/a3.jpg)
 
-## Loans Screen
-<img src="screenshots/a4.jpg" width="300"/>
+### Loans Screen
+![Loans](screenshots/a4.jpg)
 
-## Analytics Screen
-<img src="screenshots/a5.jpg" width="300"/>
-=======
-
-
->>>>>>> bdee65dcf5645a8b97a055ca3e6bdc759b225304
+### Analytics Screen
+![Analytics](screenshots/a5.jpg)
 
 # Future Improvements
 
