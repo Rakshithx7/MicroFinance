@@ -190,20 +190,19 @@ After launching:
 ## Screenshots
 
 ### Dashboard Screen
-![Dashboard](Screenshots/a1.jpg)
+<img src="Screenshots/a1.jpg" width="250"/>
 
 ### Members Screen
-![Members](Screenshots/a2.jpg)
+<img src="Screenshots/a2.jpg" width="250"/>
 
 ### Savings Screen
-![Savings](Screenshots/a3.jpg)
+<img src="Screenshots/a3.jpg" width="250"/>
 
 ### Loans Screen
-![Loans](Screenshots/a4.jpg)
+<img src="Screenshots/a4.jpg" width="250"/>
 
 ### Analytics Screen
-![Analytics](Screenshots/a5.jpg)
-
+<img src="Screenshots/a5.jpg" width="250"/>
 # Future Improvements
 
 - PDF Report Export
