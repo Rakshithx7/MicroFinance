@@ -190,19 +190,19 @@ After launching:
 ## Screenshots
 
 ### Dashboard Screen
-![Dashboard](screenshots/a1.jpg)
+![Dashboard](Screenshots/a1.jpg)
 
 ### Members Screen
-![Members](screenshots/a2.jpg)
+![Members](Screenshots/a2.jpg)
 
 ### Savings Screen
-![Savings](screenshots/a3.jpg)
+![Savings](Screenshots/a3.jpg)
 
 ### Loans Screen
-![Loans](screenshots/a4.jpg)
+![Loans](Screenshots/a4.jpg)
 
 ### Analytics Screen
-![Analytics](screenshots/a5.jpg)
+![Analytics](Screenshots/a5.jpg)
 
 # Future Improvements
 
