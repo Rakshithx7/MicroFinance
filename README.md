@@ -87,11 +87,6 @@ The application helps SHGs maintain accurate and transparent financial records d
 - Weekly analytics
 - Group capital overview
 
-## Authentication & Sync
-- Google Sign-In
-- Firebase Authentication
-- Firestore synchronization
-
 ## Export & Sharing
 - Export summary reports
 - WhatsApp sharing support
