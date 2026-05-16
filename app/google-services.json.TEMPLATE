@@ -1,0 +1,30 @@
+// ══════════════════════════════════════════════════════════════════════════════
+// IMPORTANT: You must replace this file with your real google-services.json
+//
+// Steps to get your google-services.json:
+//
+// 1. Go to https://console.firebase.google.com/
+// 2. Click "Add project" → name it "Mahila-Shakti-Unnati"
+// 3. In the project, click "Add app" → choose Android
+// 4. Enter package name: com.example.microfinance
+// 5. Download the google-services.json file
+// 6. Place it at: app/google-services.json  (same folder as this template)
+//
+// 7. In Firebase Console → Authentication → Sign-in method:
+//    Enable "Google" sign-in provider
+//
+// 8. In Firebase Console → Firestore Database:
+//    Create database in production mode
+//    Choose a region close to your users (e.g., asia-south1 for India)
+//
+// 9. Set Firestore Security Rules:
+//    rules_version = '2';
+//    service cloud.firestore {
+//      match /databases/{database}/documents {
+//        match /users/{userId}/{document=**} {
+//          allow read, write: if request.auth != null && request.auth.uid == userId;
+//        }
+//      }
+//    }
+//
+// ══════════════════════════════════════════════════════════════════════════════
