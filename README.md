@@ -115,10 +115,6 @@ The application helps SHGs maintain accurate and transparent financial records d
 - DAO Pattern
 - Database Migrations
 
-## Cloud & Authentication
-- Firebase Authentication
-- Firebase Firestore
-
 ## Development Tools
 - Android Studio
 - Gradle
@@ -162,3 +158,32 @@ MicroFinance/
 ├── build.gradle.kts
 ├── .gitignore
 └── README.md
+
+
+---
+
+# How to Run the Application
+
+1. Open the project in Android Studio
+2. Wait for Gradle build to complete
+3. Connect an Android device or start emulator
+4. Click the Run ▶ button
+5. The application will install automatically
+
+After launching:
+- Add members
+- Record savings
+- Create loans
+- Track repayments
+- View dashboard analytics
+
+# Application Workflow
+
+1. User logs into the application
+2. Add SHG members
+3. Record weekly savings
+4. Mark savings as Paid/Pending
+5. Dashboard updates automatically
+6. Create and manage loans
+7. Track repayments and balances
+8. View financial analytics
