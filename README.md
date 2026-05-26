@@ -8,12 +8,9 @@ This project was developed as part of the Android App Development using GenAI In
 
 # Project Information
 
-Project Title : Mahila-Shakti Unnati – Micro Finance  
-Project No : 83  
+Project Title : Mahila-Shakti Unnati – Micro Finance 
 Internship Domain : Android App Development using GenAI  
 Developer : Rakshith C  
-College : Sri Krishna Institute Of Technology  
-USN : 1KT22CS086  
 
 ---
 
